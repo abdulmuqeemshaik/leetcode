@@ -17,4 +17,5 @@ leetcode problems
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
