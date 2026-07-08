@@ -9,6 +9,7 @@ leetcode problems
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |
