@@ -30,4 +30,12 @@ leetcode problems
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abdulmuqeemshaik/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abdulmuqeemshaik/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
