@@ -10,6 +10,7 @@ leetcode problems
 | [2544-alternating-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abdulmuqeemshaik/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ leetcode problems
 | [2553-separate-the-digits-in-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2974-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abdulmuqeemshaik/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
