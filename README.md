@@ -23,6 +23,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0001-two-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -39,6 +40,7 @@ leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abdulmuqeemshaik/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
