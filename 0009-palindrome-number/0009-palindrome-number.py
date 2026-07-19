@@ -1,5 +1,9 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
+        if(x<0):
+            return False
+        rev=str(x)
+        return rev==rev[::-1]
         # temp=x
         # rev=0
         # while(x>0):
@@ -10,9 +14,5 @@ class Solution:
         #     return True
         # else:
         #     return False
-        if(x<0):
-            return False
-        s=str(x)
-        return s==s[::-1]
 
         
