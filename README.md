@@ -6,6 +6,7 @@ leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
