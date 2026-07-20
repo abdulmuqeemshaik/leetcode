@@ -7,6 +7,7 @@ leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -27,6 +28,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0066-plus-one) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
