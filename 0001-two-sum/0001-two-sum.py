@@ -7,7 +7,7 @@ class Solution:
         #             return [i,j]
         # return []  # No solution found
         num_to_index={} 
-        for i, num in enumerate(nums):
+        for i,num in enumerate(nums):
             complement=target-num
             # If complement exists, we found our pair
             if complement in num_to_index:
