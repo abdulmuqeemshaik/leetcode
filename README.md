@@ -15,6 +15,7 @@ leetcode problems
 | [2544-alternating-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abdulmuqeemshaik/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -67,4 +68,8 @@ leetcode problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
