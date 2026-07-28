@@ -30,6 +30,7 @@ leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0066-plus-one) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -55,6 +56,7 @@ leetcode problems
 | [0387-first-unique-character-in-a-string](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abdulmuqeemshaik/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Queue
 |  |
@@ -72,4 +74,8 @@ leetcode problems
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2843-count-symmetric-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
