@@ -12,6 +12,7 @@ leetcode problems
 | [0412-fizz-buzz](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -32,6 +33,7 @@ leetcode problems
 | [0066-plus-one](https://github.com/abdulmuqeemshaik/leetcode/tree/master/0066-plus-one) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/abdulmuqeemshaik/leetcode/tree/master/2974-minimum-number-game) |
